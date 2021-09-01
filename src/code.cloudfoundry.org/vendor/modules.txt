@@ -384,7 +384,6 @@ gopkg.in/validator.v2
 gopkg.in/yaml.v2
 # launchpad.net/gocheck v0.0.0-20140225173054-000000000087
 ## explicit
-# github.com/codegangsta/cli => github.com/urfave/cli v1.17.1-0.20160516150149-3a52a3b8124e
 # github.com/nats-io/go-nats => github.com/nats-io/go-nats v1.5.1-0.20180331191609-247b2a84d8d0
 # github.com/containernetworking/cni => github.com/containernetworking/cni v0.6.0
 # github.com/containernetworking/plugins => github.com/containernetworking/plugins v0.6.0

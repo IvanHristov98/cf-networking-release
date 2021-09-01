@@ -1,7 +1,5 @@
 module code.cloudfoundry.org
 
-replace github.com/codegangsta/cli => github.com/urfave/cli v1.17.1-0.20160516150149-3a52a3b8124e
-
 replace github.com/nats-io/go-nats => github.com/nats-io/go-nats v1.5.1-0.20180331191609-247b2a84d8d0
 
 replace github.com/containernetworking/cni => github.com/containernetworking/cni v0.6.0
