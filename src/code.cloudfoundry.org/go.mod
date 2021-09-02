@@ -8,6 +8,8 @@ replace github.com/containernetworking/plugins => github.com/containernetworking
 
 replace github.com/square/certstrap => github.com/square/certstrap v1.1.1
 
+replace github.com/pivotal-cf-experimental/warrant => github.com/pivotal-cf-experimental/warrant v0.0.0-20170102215731-9d632d130b6a
+
 go 1.16
 
 require (
@@ -28,8 +30,10 @@ require (
 	github.com/containernetworking/cni v1.0.0
 	github.com/containernetworking/plugins v1.0.0
 	github.com/coreos/go-iptables v0.6.0
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/golang/protobuf v1.5.2
+	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/lib/pq v1.10.2
 	github.com/montanaflynn/stats v0.6.6
