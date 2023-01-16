@@ -58,9 +58,9 @@ require (
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00
 	github.com/tedsuo/rata v1.0.0
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/net v0.0.0-20210825183410-e898025ed96a
-	golang.org/x/sys v0.0.0-20210831042530-f4d43177bf5e
-	google.golang.org/grpc v1.40.0
+	golang.org/x/net v0.4.0
+	golang.org/x/sys v0.3.0
+	google.golang.org/grpc v1.52.0
 	gopkg.in/gorp.v1 v1.7.2 // indirect
 	gopkg.in/validator.v2 v2.0.0-20210331031555-b37d688a7fb0
 	gopkg.in/yaml.v2 v2.4.0
